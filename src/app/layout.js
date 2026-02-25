@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Home - Jawai Bandh",
   description: "Welcome We welcome you to the land of culture and heritage where tourists visit for heritage and history of Rajwada(Shatriya kingdom). But Rajasthan offers a way more than heritage and history.",
+    alternates: {
+    canonical: "https://jawaibandh.com/",
+  },
    icons: {
     icon: [
       { url: '/Jawai-Bandh-32x32.ico', sizes: '32x32', type: 'image/png' },
